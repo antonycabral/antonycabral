@@ -8,8 +8,8 @@ Sou um desenvolvedor back-end com experiência em Java e Python . Tenho paixão 
 - ⚡ Fato curioso: Amo desafios.
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=antonycabral_github&show_icons=true&hide_border=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=antonycabral&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=antonycabral&show_icons=true&theme=blueberry)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=antonycabral&layout=compact&theme=blueberry)
 
 ## Projetos Destacados
 - [**Projeto 1**](https://github.com/antonycabral/ApoiaMaisplatform) - plataforma de atendimento psicologico social
