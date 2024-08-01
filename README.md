@@ -13,7 +13,7 @@ Sou um desenvolvedor back-end com experiência em Java e Python . Tenho paixão 
 
 ## Projetos Destacados
 - [**Projeto 1**](https://github.com/antonycabral/ApoiaMaisplatform) - plataforma de atendimento psicologico social
-- [**Projeto 2**][(https://github.com/antonycabral/sistema-Rh) - Sistema de RH feito com Springboot e thymeleaf 
+- [**Projeto 2**](https://github.com/antonycabral/sistema-Rh) - Sistema de RH feito com Springboot e thymeleaf 
 - [**Projeto 3**](https://github.com/seu-username/projeto3) - Breve descrição do projeto 3.
 
 ## Tecnologias e Ferramentas
