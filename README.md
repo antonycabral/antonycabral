@@ -3,7 +3,7 @@
 ## Sobre Mim
 Sou um desenvolvedor back-end com experiência em Java e Python . Tenho paixão por codigos e desafios.
 
-- 🌱 Atualmente, estou aprendendo SpringBoot.
+- 🌱 com evolução constante em Java SpringBoot.
 - 📫 Como me encontrar: antonygcabral@gmail.com.
 - ⚡ Fato curioso: Amo desafios.
 
