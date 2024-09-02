@@ -15,10 +15,9 @@ Sou um desenvolvedor Full-Stack com experiência em Java, SpringBoot e Angular. 
 
 <div align="center" style="border: 2px solid #00BFFF; border-radius: 10px; padding: 20px; background-color: #f0f8ff;">
 
-## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=antonycabral&show_icons=true&theme=highcontrast&hide_title=true&count_private=true&hide_border=true&icon_color=FF6F00&title_color=FF6F00&text_color=ffffff&bg_color=000000)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=antonycabral&layout=compact&theme=highcontrast&hide_title=true&hide_border=true&icon_color=FF6F00&title_color=FF6F00&text_color=ffffff&bg_color=000000&langs_count=15&card_width=500)
-
+<div align="center">
+  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=antonycabral&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=151515&title_color=FF6F00&text_color=FFF&border_radius=3&border_color=FF6F00&icon_color=FF6F00&theme=jolly" alt="GitHub stats">
+  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=antonycabral&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=16&show_icons=true&hide_progress=true&title_color=FF6F00&hide=html,css&bg_color=151515&text_color=8B8B8B&border_radius=3&border_color=FF6F00&count_private=true" alt="Most Used Languages">
 </div>
 
 ---
