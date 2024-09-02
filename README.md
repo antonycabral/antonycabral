@@ -16,7 +16,7 @@ Sou um desenvolvedor Full-Stack com experiência em Java, SpringBoot e Angular. 
 <div align="center" style="border: 2px solid #00BFFF; border-radius: 10px; padding: 20px; background-color: #f0f8ff;">
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=antonycabral&show_icons=true&theme=highcontrast&hide_title=true&count_private=true&hide_border=true&icon_color=FF6F00&title_color=FF6F00&text_color=ffffff&bg_color=000000&hide_rank=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=antonycabral&show_icons=true&theme=highcontrast&hide_title=true&count_private=true&hide_border=true&icon_color=FF6F00&title_color=FF6F00&text_color=ffffff&bg_color=000000)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=antonycabral&layout=compact&theme=highcontrast&hide_title=true&hide_border=true&icon_color=FF6F00&title_color=FF6F00&text_color=ffffff&bg_color=000000&langs_count=15&card_width=500)
 
 </div>
