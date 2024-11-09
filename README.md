@@ -31,8 +31,8 @@ Sou um desenvolvedor Full-Stack com experiência em Java, SpringBoot e Angular. 
   <a href="https://github.com/antonycabral/sistema-Rh" style="margin-right: 15px;">
     <img src="https://img.shields.io/badge/Projeto_2-Sistema_RH-F57C00?style=for-the-badge" alt="Projeto 2">
   </a>
-  <a href="https://github.com/seu-username/projeto3">
-    <img src="https://img.shields.io/badge/Projeto_3-Breve_Descrição-F57C00?style=for-the-badge" alt="Projeto 3">
+  <a href="https://github.com/antonycabral/Treino">
+    <img src="https://img.shields.io/badge/Sistema de Treino-F57C00?style=for-the-badge" alt="Projeto 3">
   </a>
 
 </div>
